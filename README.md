@@ -1,2 +1,2 @@
-# Codecademy's Portfolio Project: Personal Budget, Part I 
+# Codecademy's Portfolio Project: Personal Budget
 ### Author: unitoflazy
